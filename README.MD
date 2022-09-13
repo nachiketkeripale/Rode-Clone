@@ -14,7 +14,7 @@
 
 ## This is Clone of [RODE.com](https://www.rode.com).
 
-## Shopify Clone Live Link  [RODE Clone Link](https://nachiketkeripale-rode-clone.netlify.app/).
+## RODE Clone Live Link  [RODE Clone Link](https://nachiketkeripale-rode-clone.netlify.app/).
 
 - Create this project from scratch and used Tailwind CSS.
 - Tailwind CSS was a fantastic learning experience for me.
